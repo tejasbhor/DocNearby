@@ -6,7 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Django](https://img.shields.io/badge/Django-green)
 ![React](https://img.shields.io/badge/React-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue) ![Node.js](https://img.shields.io/badge/Node.js-16%2B-green) ---
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue) ![Node.js](https://img.shields.io/badge/Node.js-16%2B-green) 
+---
 
 ## ✨ Project Overview
 
