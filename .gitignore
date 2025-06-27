@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Django
+*.log
+local_settings.py
+/db.sqlite3
+/media
+/staticfiles
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Build
+/build/
+/dist/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
