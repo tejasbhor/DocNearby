@@ -2,18 +2,23 @@
 
 ---
 
-![DocNearby Logo](logo-small.png)
+<img src="logo-small.png" alt="DocNearby Logo" width="200" />  <br/> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Django](https://img.shields.io/badge/Django-green)
 ![React](https://img.shields.io/badge/React-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue) ![Node.js](https://img.shields.io/badge/Node.js-16%2B-green) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue)
+![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)
+
+
 ---
+**🏆 1st Prize Winner - PixelRush Hackathon, University Level 🏆** <br/>
 
 ## ✨ Project Overview
 
 **DocNearby** is an innovative full-stack web application born from the **PixelRush Hackathon** at RTMSSU's Foundation Week 2024. It's designed to **revolutionize healthcare access** by seamlessly connecting individuals experiencing medical symptoms with qualified doctors in their vicinity. Our platform leverages cutting-edge technology, including **Artificial Intelligence**, to simplify symptom analysis, predict potential diseases, and provide tailored recommendations for healthcare providers.
 
 The core objective of DocNearby is to bridge the gap in patient-doctor connection, especially in areas where accessing timely and accurate medical attention can be challenging. By offering intuitive interfaces and reliable information, DocNearby aims to make healthcare more accessible and intuitive for everyone.
+ <br/>
 
 ---
 
@@ -23,6 +28,8 @@ The core objective of DocNearby is to bridge the gap in patient-doctor connectio
 * **Event:** PixelRush Hackathon, Foundation Week 2024
 * **Participants:** BTech IT/CT/MTX Sem4 Students of RTMSSU
 * **Theme:** Revolutionizing Healthcare: Connecting Symptoms to Nearby Doctors
+
+**We are proud to announce that DocNearby was awarded the 1st Prize in its category at this university-level hackathon, recognizing its innovation, potential, and successful execution in addressing critical healthcare challenges.**
 
 ### The Challenge We Addressed
 
@@ -261,14 +268,15 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Have questions, need support, or want to connect?
 
-* **Project Repository:** [https://github.com/tejasbhor/DocNearby](https://github.com/tejasbhor/DocNearby) * 
-* **Report an Issue:** [https://github.com/tejasbhor/DocNearby/issues](https://github.com/tejasbhor/DocNearby/issues) * 
+* **Project Repository:** [https://github.com/tejasbhor/DocNearby](https://github.com/tejasbhor/DocNearby)
+* **Report an Issue:** [https://github.com/tejasbhor/DocNearby/issues](https://github.com/tejasbhor/DocNearby/issues)
 
 ## 🙏 Acknowledgments
 
 A heartfelt thank you to:
 
 * The **PixelRush Hackathon** organizers and RTMSSU for providing this incredible opportunity.
+* The judges and faculty for their evaluation and support.
 * The developers of **Django**, **React**, and other open-source technologies that made this project possible.
 * All **team members** who contributed their skills and dedication to DocNearby.
 * The wider **open-source community** for their invaluable resources and inspiration.
